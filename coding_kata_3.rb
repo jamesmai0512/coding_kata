@@ -7,7 +7,7 @@ def count(array) # Create the method count that accept a array
 end 
 
 
-puts count(@array) # It should return 1
+puts count(array) # It should return 1
 
 
 # The count method takes an enumerable collection 
