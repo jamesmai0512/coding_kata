@@ -31,7 +31,7 @@
 
 
 
-a = [2, 7, 32, 28, 35, 49, 80, 12, 50]
+# a = [2, 7, 32, 28, 35, 49, 80, 12, 50]
 
 # i = 0
 
@@ -57,5 +57,5 @@ a = [2, 7, 32, 28, 35, 49, 80, 12, 50]
 # largest_amount(a, i)
 
 
-puts a.sort.reverse.max
+# puts a.sort.reverse.max
 
