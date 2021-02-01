@@ -1,3 +1,4 @@
+# Magic Three https://www.codewars.com/kata/588622835d173135b7000103/train/ruby
 
 a = [-10, 4, 5, 7, 3]
 b = [0]
