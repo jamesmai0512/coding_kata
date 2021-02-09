@@ -18,3 +18,8 @@ def each_cons(list, number)
 end
 
 puts each_cons(list, number)
+
+### puts list.slice(a, b)
+
+#### a is that index number
+#### b is amount of number will return after
